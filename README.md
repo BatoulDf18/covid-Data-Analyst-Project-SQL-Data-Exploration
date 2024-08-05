@@ -10,7 +10,7 @@ The project uses two main tables:
 1. `CovidDeaths`: Contains data about COVID-19 cases and deaths.
 2. `CovidVaccinations`: Contains data about COVID-19 vaccinations.
 
-These tables are assumed to be in a database named `portofolio project`.
+These tables are assumed to be in Data file above.
 
 ## Key Analyses
 
